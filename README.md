@@ -1,1 +1,1 @@
-usersbryan.netlify.app
+https://usersbryan.netlify.app/
